@@ -1,16 +1,27 @@
-## Hi there 👋
+## 👋 Olá, sou Kaynara 
 
-<!--
-**kkaynara08/kkaynara08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀   
+💡   
+📚 
 
-Here are some ideas to get you started:
+### 🌐 Me encontre:
+[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/kkaynara_/)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📈 Estatísticas do GitHub  
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kkaynara08&show_icons=true&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkaynara08&layout=compact&theme=dracula" />
+</div>
+
+### 🚀 Tecnologias  
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px"/>
+
+</div>
+
+![Profile views](https://komarev.com/ghpvc/?username=kkaynara08&color=blue)
