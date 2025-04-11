@@ -1,8 +1,21 @@
-## 👋 Olá, sou Kaynara 
 
-🚀   
-💡   
-📚 
+👩‍💻 Sobre mim!
+--------------
+Oii! Me chamo Kaynara e sou estudante do IFCE - Campus Maranguape, onde curso Informática.💻
+Atualmete, tenho 17 anos e estou no 3° ano do ensino médio.
+📚 Estou aprendendo linguagens de programação como: Java,Python e desenvolvimento web como: HTML E CSS.
+
+🌟CURIOSIDADES SOBRE MIM:
+  -----------------------
+🍕- Amo pizza (quem resiste né?)
+🍧- Sou apaixonada por açaí
+🎤- Adoro cantar, música é minha terapia
+🚴‍♀️- Gosto de pedalar de bicicleta
+🐱- Sou tia de um gato(ele é da minha irmã) e ele tem 13 anos, e eu amo muito ele❤️!
+🤓- Tenho muita curiosidade sobre informática e quero me aprofundar cada vez mais nessa área!✨
+
+
+ 
 
 ### 🌐 Me encontre:
 [![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/kkaynara_/)  
