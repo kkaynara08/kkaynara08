@@ -9,13 +9,11 @@ Atualmete, tenho 17 anos e estou no 3° ano do ensino médio.
 
 🌟CURIOSIDADES SOBRE MIM:
   -----------------------
-🍕- Amo pizza (quem resiste né?)
-
-🍧- Sou apaixonada por açaí
+🍕- Amo pizza e açai (quem resiste né?)
 
 🎤- Adoro cantar, música é minha terapia
 
-🚴‍♀️- Gosto de pedalar de bicicleta
+🚴‍♀️- Gosto de andar de bicicleta
 
 🐱- Sou tia de um gato(ele é da minha irmã) ele tem 13 anos, e eu amo muito ele❤️!
 
