@@ -2,12 +2,15 @@
 👩‍💻 Sobre mim!
 --------------
 Oii! Me chamo Kaynara e sou estudante do IFCE - Campus Maranguape, onde curso Informática.💻
+
 Atualmete, tenho 17 anos e estou no 3° ano do ensino médio.
+
 📚 Estou aprendendo linguagens de programação como: Java,Python e desenvolvimento web como: HTML E CSS.
 
 🌟CURIOSIDADES SOBRE MIM:
   -----------------------
 🍕- Amo pizza (quem resiste né?)
+
 🍧- Sou apaixonada por açaí
 🎤- Adoro cantar, música é minha terapia
 🚴‍♀️- Gosto de pedalar de bicicleta
