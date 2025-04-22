@@ -11,8 +11,6 @@ Atualmete, tenho 17 anos e estou no 3° ano do ensino médio.
   -----------------------
 🍕- Amo pizza e açai (quem resiste né?)
 
-🎤- Adoro cantar, música é minha terapia
-
 🚴‍♀️- Gosto de andar de bicicleta
 
 🐱- Sou tia de um gato(ele é da minha irmã) ele tem 13 anos, e eu amo muito ele❤️!
