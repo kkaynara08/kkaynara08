@@ -1,5 +1,5 @@
 
-👩🏻‍💻 Sobre mim!
+😊 Sobre mim!
 --------------
 Oii! Me chamo Kaynara e sou estudante do IFCE - Campus Maranguape, onde curso Informática.💻
 
