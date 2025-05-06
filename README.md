@@ -4,7 +4,9 @@
 Oii! Me chamo Kaynara e sou estudante do IFCE - Campus Maranguape, onde curso Informática.💻
 
 Tenho 17 anos, moro em Maranguape-CE, na região metropolitana de Fortaleza, e estou no 3º ano do ensino médio no IFCE – Campus Maranguape. 
+
 Sou uma pessoa com grandes sonhos e determinada a torná-los realidade.😉
+
 Entre flores,sonhos,risos e canções... Eu me encontro!❤️‍🔥
 
 
