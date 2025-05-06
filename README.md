@@ -7,7 +7,7 @@ Tenho 17 anos, moro em Maranguape-CE, na região metropolitana de Fortaleza, e e
 
 Sou uma pessoa com grandes sonhos e determinada a torná-los realidade.😉
 
-Entre flores,sonhos,risos e canções... Eu me encontro!❤️‍🔥
+Entre flores, sonhos, risos e canções... Eu me encontro!❤️‍🔥
 
 
 📚 Estou aprendendo linguagens de programação como: Java,Python e desenvolvimento web como: HTML E CSS.
