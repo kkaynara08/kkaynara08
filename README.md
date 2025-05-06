@@ -13,6 +13,10 @@ Atualmete, tenho 17 anos e estou no 3° ano do ensino médio.
 
 🚴‍♀️- Gosto de andar de bicicleta
 
+💐 Amo flores, Se eu pudesse, teria um jardim só meu!!
+
+💫 Sou apaixonada pelas coisas simples e pelos pequenos detalhes: um pôr do sol, uma noite estrelada, risadas sinceras, músicas e paz.
+
 🐱- Sou tia de um gato(ele é da minha irmã) ele tem 13 anos, e eu amo muito ele🫀!
 
 🤓- Tenho muita curiosidade sobre informática e quero me aprofundar cada vez mais nessa área!✨
